@@ -15,7 +15,7 @@ This repository contains my capstone ePortfolio for CS 499, showcasing enhanced 
 ## Repository Structure
 
 * `/artifacts/` - Original and enhanced code for all three artifacts with proper narratives
-* `/documents/` - Code review script and professional self-assessment
+* `/documents/` - professional self-assessment
 * `index.html` - Main ePortfolio webpage
 
 ## Course Outcomes Demonstrated
